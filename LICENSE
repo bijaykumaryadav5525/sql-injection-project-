@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Bijay yadav
+Copyright (c) 2026 Bijay kumar yadav
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+ADDITIONAL EDUCATIONAL USE DISCLAIMER:
+
+This project intentionally contains insecure code (SQL injection
+vulnerabilities) for educational and training purposes only. It is intended
+to be run in isolated, local, or sandboxed environments — never on production
+systems or systems you do not own or have explicit written authorization to
+test.
+
+The authors and contributors are not responsible for any misuse of this
+code. Use of this software to attack systems without authorization is
+illegal in most jurisdictions. By using this repository, you agree to use it
+solely for lawful, authorized educational purposes.
