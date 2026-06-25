@@ -1,0 +1,45 @@
+# IDE and Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# PHP
+vendor/
+composer.lock
+.env
+.env.local
+
+# Database
+*.sqlite
+*.sqlite3
+database.sqlite
+database.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Project specific
+config/local.php
+uploads/
+session_data/
