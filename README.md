@@ -81,12 +81,12 @@ php -S localhost:8000
 #### 5. Access Application
 
 Navigate to:
-- **Vulnerable Login**: `http://localhost:8000/login-vulnerable.php`
-- **Patched Login**: `http://localhost:8000/login-patched.php`
-- **Vulnerable Search**: `http://localhost:8000/search-vulnerable.php`
-- **Patched Search**: `http://localhost:8000/search-patched.php`
-- **Vulnerable Product**: `http://localhost:8000/product-vulnerable.php`
-- **Patched Product**: `http://localhost:8000/product-patched.php`
+- **Vulnerable Login**: 
+- **Patched Login**: 
+- **Vulnerable Search**: 
+- **Patched Search**: 
+- **Vulnerable Product**: 
+- **Patched Product**: 
 
 ## Attack Demonstrations
 
