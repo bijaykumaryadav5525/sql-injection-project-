@@ -233,16 +233,16 @@ This project demonstrates:
 
 ```bash
 # Test login form
-sqlmap -u "http://localhost:8000/login-vulnerable.php" \
+sqlmap -u "http://login-vulnerable.php" \
   --data="username=admin&password=test" \
   --level=3 --risk=2 --batch -dbs
 
 # Test search form
-sqlmap -u "http://localhost:8000/search-vulnerable.php?id=1" \
+sqlmap -u "http://search-vulnerable.php?id=1" \
   --level=3 --risk=2 --batch -dbs
 
 # Test product form
-sqlmap -u "http://localhost:8000/product-vulnerable.php?id=1" \
+sqlmap -u "http://product-vulnerable.php?id=1" \
   --level=3 --risk=2 --batch -dbs
 ```
 
